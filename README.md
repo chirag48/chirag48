@@ -1,5 +1,5 @@
 ### Hi there I am Chirag Jain 👋
-<img align="right" alt="GIF" src="https://github.com/Atharv-Chaudhari/Atharv-Chaudhari/blob/ebe83577c1d40e367b7d8da71b612abe58fd3987/Profile%20Data/coding.gif" width="390" height="350" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/777804/screenshots/4337089/media/99717ffbe4b2440358427f79d90d2e95.gif" width="390" height="350" />
 
 - 🌱 I’m currently Exploring Things.
 - 👯 I’m looking forward to work or collborate with others. .
