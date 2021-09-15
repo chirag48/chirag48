@@ -12,7 +12,7 @@
 
 <div align="left">
 
-[![profile visit](https://komarev.com/ghpvc/?username=Atharv-Chaudhari)](https://badges.pufler.dev)[![Repos Badge](https://badges.pufler.dev/repos/Atharv-Chaudhari)](https://badges.pufler.dev)
+[![profile visit](https://komarev.com/ghpvc/?username=chirag48)](https://badges.pufler.dev)[![Repos Badge](https://badges.pufler.dev/repos/chirag48)](https://badges.pufler.dev)
  
 </div>
 <!--
